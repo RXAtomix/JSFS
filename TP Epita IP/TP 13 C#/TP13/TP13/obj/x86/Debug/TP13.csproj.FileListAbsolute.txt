@@ -1,0 +1,5 @@
+C:\Users\Fairy\Desktop\TP Epita IP\TP 13 C#\TP13\TP13\bin\Debug\TP13.exe
+C:\Users\Fairy\Desktop\TP Epita IP\TP 13 C#\TP13\TP13\bin\Debug\TP13.pdb
+C:\Users\Fairy\Desktop\TP Epita IP\TP 13 C#\TP13\TP13\obj\x86\Debug\TP13.csprojResolveAssemblyReference.cache
+C:\Users\Fairy\Desktop\TP Epita IP\TP 13 C#\TP13\TP13\obj\x86\Debug\TP13.exe
+C:\Users\Fairy\Desktop\TP Epita IP\TP 13 C#\TP13\TP13\obj\x86\Debug\TP13.pdb

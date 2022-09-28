@@ -1,0 +1,5 @@
+C:\Users\Fairy\Desktop\TP Epita IP\TP 12 C#\Tron\Tron\bin\Debug\TP12.exe
+C:\Users\Fairy\Desktop\TP Epita IP\TP 12 C#\Tron\Tron\bin\Debug\TP12.pdb
+C:\Users\Fairy\Desktop\TP Epita IP\TP 12 C#\Tron\Tron\obj\x86\Debug\Tron.csprojResolveAssemblyReference.cache
+C:\Users\Fairy\Desktop\TP Epita IP\TP 12 C#\Tron\Tron\obj\x86\Debug\TP12.exe
+C:\Users\Fairy\Desktop\TP Epita IP\TP 12 C#\Tron\Tron\obj\x86\Debug\TP12.pdb
