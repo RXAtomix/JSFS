@@ -1,0 +1,16 @@
+# dimensions
+10,10
+# final cell
+2,7
+# number of players
+1
+# player cells
+# main player
+0,0
+# walls
+1,9,E
+4,3,S
+0,2,S
+9,4,S
+4,9,E
+3,4,E
