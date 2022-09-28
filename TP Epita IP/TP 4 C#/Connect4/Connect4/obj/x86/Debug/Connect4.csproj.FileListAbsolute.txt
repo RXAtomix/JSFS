@@ -1,0 +1,5 @@
+C:\Users\Fairy\Desktop\TP Epita IP\TP 4 C#\Connect4\Connect4\bin\Debug\Connect4.exe
+C:\Users\Fairy\Desktop\TP Epita IP\TP 4 C#\Connect4\Connect4\bin\Debug\Connect4.pdb
+C:\Users\Fairy\Desktop\TP Epita IP\TP 4 C#\Connect4\Connect4\obj\x86\Debug\Connect4.csprojResolveAssemblyReference.cache
+C:\Users\Fairy\Desktop\TP Epita IP\TP 4 C#\Connect4\Connect4\obj\x86\Debug\Connect4.exe
+C:\Users\Fairy\Desktop\TP Epita IP\TP 4 C#\Connect4\Connect4\obj\x86\Debug\Connect4.pdb

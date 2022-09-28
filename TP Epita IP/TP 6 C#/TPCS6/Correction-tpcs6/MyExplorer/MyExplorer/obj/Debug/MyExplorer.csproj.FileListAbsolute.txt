@@ -1,0 +1,6 @@
+C:\Users\Fairy\Desktop\TP Epita IP\TP 6 C#\TPCS6\Correction-tpcs6\MyExplorer\MyExplorer\bin\Debug\MyExplorer.exe.config
+C:\Users\Fairy\Desktop\TP Epita IP\TP 6 C#\TPCS6\Correction-tpcs6\MyExplorer\MyExplorer\bin\Debug\MyExplorer.exe
+C:\Users\Fairy\Desktop\TP Epita IP\TP 6 C#\TPCS6\Correction-tpcs6\MyExplorer\MyExplorer\bin\Debug\MyExplorer.pdb
+C:\Users\Fairy\Desktop\TP Epita IP\TP 6 C#\TPCS6\Correction-tpcs6\MyExplorer\MyExplorer\obj\Debug\MyExplorer.csprojResolveAssemblyReference.cache
+C:\Users\Fairy\Desktop\TP Epita IP\TP 6 C#\TPCS6\Correction-tpcs6\MyExplorer\MyExplorer\obj\Debug\MyExplorer.exe
+C:\Users\Fairy\Desktop\TP Epita IP\TP 6 C#\TPCS6\Correction-tpcs6\MyExplorer\MyExplorer\obj\Debug\MyExplorer.pdb

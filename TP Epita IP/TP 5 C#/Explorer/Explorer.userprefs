@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Explorer/Explorer.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Explorer/Map.cs">
+    <Files>
+      <File FileName="Explorer/Program.cs" Line="41" Column="36" />
+      <File FileName="Explorer/Map.cs" Line="93" Column="11" />
+      <File FileName="Explorer/Character.cs" Line="16" Column="15" />
+      <File FileName="Explorer/Ennemy.cs" Line="5" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
