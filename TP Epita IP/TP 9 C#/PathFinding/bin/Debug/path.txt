@@ -1,0 +1,11 @@
+--- Path to follow ---
+Jack's Cell
+Corridor 5
+Security
+Corridor 4
+Common Room
+Corridor 1
+Hall
+Exit
+--------------------
+Total cost: 8

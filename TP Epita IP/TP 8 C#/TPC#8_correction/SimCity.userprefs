@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="SimCity/SimCity.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SimCity/Factory.cs">
+    <Files>
+      <File FileName="SimCity/Program.cs" Line="1" Column="1" />
+      <File FileName="SimCity/House.cs" Line="1" Column="1" />
+      <File FileName="SimCity/PoliceStation.cs" Line="1" Column="1" />
+      <File FileName="SimCity/Building.cs" Line="1" Column="1" />
+      <File FileName="SimCity/CityHall.cs" Line="1" Column="1" />
+      <File FileName="SimCity/Factory.cs" Line="1" Column="1" />
+      <File FileName="SimCity/Shop.cs" Line="1" Column="1" />
+      <File FileName="SimCity/Town.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

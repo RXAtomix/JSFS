@@ -1,0 +1,5 @@
+C:\Users\Fairy\Desktop\TP Epita IP\TP 8 C#\TPC#8_correction\SimCity\bin\Debug\SimCity.exe
+C:\Users\Fairy\Desktop\TP Epita IP\TP 8 C#\TPC#8_correction\SimCity\bin\Debug\SimCity.pdb
+C:\Users\Fairy\Desktop\TP Epita IP\TP 8 C#\TPC#8_correction\SimCity\obj\x86\Debug\SimCity.csprojResolveAssemblyReference.cache
+C:\Users\Fairy\Desktop\TP Epita IP\TP 8 C#\TPC#8_correction\SimCity\obj\x86\Debug\SimCity.exe
+C:\Users\Fairy\Desktop\TP Epita IP\TP 8 C#\TPC#8_correction\SimCity\obj\x86\Debug\SimCity.pdb
