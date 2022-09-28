@@ -1,0 +1,19 @@
+extends layout
+
+append headblock
+  script(src="/javascripts/user.client.js", defer)
+  script(src="/javascripts/item.client.js", defer)
+
+block content
+  h1 SellYours App
+  div
+    p#user
+    button#logout logout
+  div
+    input#descr(placeholder="descr")
+    input#price(placeholder="price")
+    button#createbutton create
+  #result
+  div#mine My items
+  div#buy Buyable
+  div#bought
