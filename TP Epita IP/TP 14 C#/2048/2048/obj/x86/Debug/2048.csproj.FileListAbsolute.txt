@@ -1,0 +1,5 @@
+C:\Users\Fairy\Desktop\TP Epita IP\TP 14 C#\2048\2048\bin\Debug\2048.exe
+C:\Users\Fairy\Desktop\TP Epita IP\TP 14 C#\2048\2048\bin\Debug\2048.pdb
+C:\Users\Fairy\Desktop\TP Epita IP\TP 14 C#\2048\2048\obj\x86\Debug\2048.csprojResolveAssemblyReference.cache
+C:\Users\Fairy\Desktop\TP Epita IP\TP 14 C#\2048\2048\obj\x86\Debug\2048.exe
+C:\Users\Fairy\Desktop\TP Epita IP\TP 14 C#\2048\2048\obj\x86\Debug\2048.pdb

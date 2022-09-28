@@ -1,0 +1,3 @@
+C:\Users\Fairy\Desktop\TP Epita IP\TP 15 C#\BattleShip\obj\Debug\BattleShip.csprojResolveAssemblyReference.cache
+C:\Users\Fairy\Desktop\TP Epita IP\TP 15 C#\BattleShip\obj\Debug\BattleShip.Properties.Resources.resources
+C:\Users\Fairy\Desktop\TP Epita IP\TP 15 C#\BattleShip\obj\Debug\BattleShip.csproj.GenerateResource.Cache
