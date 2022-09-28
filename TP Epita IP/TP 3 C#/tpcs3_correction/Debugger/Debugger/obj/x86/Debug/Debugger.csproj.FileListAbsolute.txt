@@ -1,0 +1,5 @@
+C:\Users\Fairy\Desktop\TP Epita IP\TP 3 C#\tpcs3_correction\Debugger\Debugger\obj\x86\Debug\Debugger.csprojResolveAssemblyReference.cache
+C:\Users\Fairy\Desktop\TP Epita IP\TP 3 C#\tpcs3_correction\Debugger\Debugger\bin\Debug\Debugger.exe
+C:\Users\Fairy\Desktop\TP Epita IP\TP 3 C#\tpcs3_correction\Debugger\Debugger\bin\Debug\Debugger.pdb
+C:\Users\Fairy\Desktop\TP Epita IP\TP 3 C#\tpcs3_correction\Debugger\Debugger\obj\x86\Debug\Debugger.exe
+C:\Users\Fairy\Desktop\TP Epita IP\TP 3 C#\tpcs3_correction\Debugger\Debugger\obj\x86\Debug\Debugger.pdb

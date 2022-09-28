@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Debugger/Debugger.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Debugger/Program.cs">
+    <Files>
+      <File FileName="Debugger/Program.cs" Line="13" Column="3" />
+      <File FileName="Debugger/Ex1.cs" Line="15" Column="1" />
+      <File FileName="Debugger/Ex2.cs" Line="9" Column="1" />
+      <File FileName="Debugger/Ex3.cs" Line="15" Column="5" />
+      <File FileName="Debugger/Misc.cs" Line="13" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/floom/Documents/ACDC/tpcs3_subject/Debugger/Debugger/Program.cs" line="13" column="3" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="Debugger/Ex3.cs" line="22" offsetX="464" offsetY="336" expression="arr" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>

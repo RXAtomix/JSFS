@@ -1,0 +1,5 @@
+C:\Users\Fairy\Desktop\TP Epita IP\TP 3 C#\tpcs3_correction\Loops\Loops\obj\x86\Debug\Loops.csprojResolveAssemblyReference.cache
+C:\Users\Fairy\Desktop\TP Epita IP\TP 3 C#\tpcs3_correction\Loops\Loops\bin\Debug\Loops.exe
+C:\Users\Fairy\Desktop\TP Epita IP\TP 3 C#\tpcs3_correction\Loops\Loops\bin\Debug\Loops.pdb
+C:\Users\Fairy\Desktop\TP Epita IP\TP 3 C#\tpcs3_correction\Loops\Loops\obj\x86\Debug\Loops.exe
+C:\Users\Fairy\Desktop\TP Epita IP\TP 3 C#\tpcs3_correction\Loops\Loops\obj\x86\Debug\Loops.pdb
